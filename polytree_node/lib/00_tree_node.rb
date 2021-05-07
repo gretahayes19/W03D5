@@ -1,4 +1,5 @@
 #This code is awesome! 
+# This code is better than awesome! Just the best code ever!
 class PolyTreeNode
   attr_reader :value, :parent, :children
   def initialize(value)
