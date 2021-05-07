@@ -1,3 +1,4 @@
+#This code is awesome! 
 class PolyTreeNode
   attr_reader :value, :parent, :children
   def initialize(value)
